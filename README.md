@@ -1,5 +1,13 @@
 # Hi there 👋
+```dart
+import "mti.dart";
+main(
+    class Test {
+        final String some = "some";
+    }
+)
 
+```
 
 **mehdi-Safdari/mehdi-Safdari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
